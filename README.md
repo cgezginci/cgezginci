@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm Cantuğ Gezginci, a passionate software develo
 
 ## 🤝 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cgezginci/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cantuggezginci/)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding! 🚀
 
