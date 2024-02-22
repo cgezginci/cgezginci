@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Cantuğ Gezginci, a passionate software develo
 
 ## 📊 GitHub Stats
 
- ![Cantuğ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cgezginci&show_icons=true&hide_title=true&count_private=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgezginci&layout=compact&theme=radical) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgezginci&layout=compact&theme=radical) 
 
 ## 🤝 Let's Connect
 
