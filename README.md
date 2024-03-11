@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Cantuğ Gezginci
 
 Welcome to my GitHub profile! I'm Cantuğ Gezginci, a passionate software developer focusing on Java, Spring Boot, and React JS.
+[My Portfolia](https://cgezginci.github.io/My-Portfolio/Portfolio-master/)
 
 ## 👩‍💻 Tech Stack
 
